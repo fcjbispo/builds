@@ -1,1 +1,0 @@
-https://github.com/fcjbispo/builds/raw/main/fbpyutils/fbpyutils-1.4.1-py3-none-any.whl
