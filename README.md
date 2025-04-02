@@ -8,7 +8,7 @@ The table below lists the packages currently available in this repository, along
 
 | Package             | Installation Command (`pip`)                                                                                                | Source Repository (GitHub)                                       |
 | :------------------ | :-------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------- |
-| `fbpyutils`         | `pip install https://raw.githubusercontent.com/fcjbispo/builds/main/fbpyutils/fbpyutils-1.6.1-py3-none-any.whl`                | [fcjbispo/fbpyutils](https://github.com/fcjbispo/fbpyutils)        |
+| `fbpyutils`         | `pip install https://raw.githubusercontent.com/fcjbispo/builds/main/fbpyutils/fbpyutils-1.6.1-py3-none-any.whl`                | `Unavailable (private)`                                          |
 | `fbpyutils_ai`      | `pip install https://raw.githubusercontent.com/fcjbispo/builds/main/fbpyutils_ai/fbpyutils_ai-0.1.0-py3-none-any.whl`          | [fcjbispo/fbpyutils_ai](https://github.com/fcjbispo/fbpyutils_ai) |
 | `fbpyutils_db`      | `pip install https://raw.githubusercontent.com/fcjbispo/builds/main/fbpyutils_db/fbpyutils_db-0.1.0-py3-none-any.whl`          | `Unavailable (private)`                                          |
 | `fbpyutils_finance` | `pip install https://raw.githubusercontent.com/fcjbispo/builds/main/fbpyutils_finance/fbpyutils_finance-1.3.1-py3-none-any.whl`| `Unavailable (private)`                                          |
