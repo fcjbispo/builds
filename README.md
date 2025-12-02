@@ -13,7 +13,7 @@ The table below lists the packages currently available in this repository, along
 | `fbpyutils_ai`      | v0.1.4  | `pip install https://github.com/fcjbispo/builds/raw/refs/heads/main/fbpyutils_ai/fbpyutils_ai-0.1.4-py3-none-any.whl`         | [fcjbispo/fbpyutils_ai](https://github.com/fcjbispo/fbpyutils_ai)           |
 | `fbpyutils_finance` | v1.4.1  | `pip install https://github.com/fcjbispo/builds/raw/refs/heads/main/fbpyutils_finance/fbpyutils_finance-1.4.1-py3-none-any.whl`                 | [fcjbispo/fbpyutils_finance](https://github.com/fcjbispo/fbpyutils_finance) |
 | `fbpyutils_google`  | v1.0.2  | `pip install https://github.com/fcjbispo/builds/raw/refs/heads/main/fbpyutils_google/fbpyutils_google-1.0.2-py3-none-any.whl` | [fcjbispo/fbpyutils_google](https://github.com/fcjbispo/fbpyutils_google)                                                     |
-| `fbpyservers_mcp`   | v0.1.0  | `pip install https://github.com/fcjbispo/builds/raw/refs/heads/main/fbpyservers_mcp/fbpyservers_mcp-0.1.0-py3-none-any.whl`   |
+| `fbpyservers_mcp`   | v0.1.0  | `pip install https://github.com/fcjbispo/builds/raw/refs/heads/main/fbpyservers_mcp/fbpyservers_mcp-0.2.0-py3-none-any.whl`   |
 | `infobr`            | v1.3.5  | `pip install https://github.com/fcjbispo/builds/raw/refs/heads/main/infobr/infobr-1.3.5-py3-none-any.whl`                     | `Unavailable (private)`                                                     |
 
 **Note:** This method installs the specific `.whl` file directly. Ensure you have network access to GitHub.
